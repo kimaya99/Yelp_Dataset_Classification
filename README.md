@@ -39,7 +39,7 @@ III. It is tricky to find the correlation between these attributes and analyzing
 
 ## License
 
-    Copyright [2017] [raghav nyati]
+    Copyright [2017] [kimaya desai] [raghav nyati] 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
