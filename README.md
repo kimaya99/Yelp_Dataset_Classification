@@ -6,7 +6,7 @@ Time spent: **50-60** hours spent in total
 
 ## Team Members:
 Raghav Nyati - 819724367 - raghavnyati90@gmail.com
-Kimaya Desai - 820884799 - kimaya.desai@gmail.com
+Kimaya Desai - kimaya.desai@gmail.com
 
 The following models are studied:
 
